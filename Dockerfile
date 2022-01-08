@@ -1,1 +1,1 @@
-FROM gcr.io/datadoghq/agent:7.32.4
+FROM gcr.io/datadoghq/cluster-agent:1.16.0
